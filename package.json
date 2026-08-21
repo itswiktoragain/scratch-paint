@@ -1,7 +1,7 @@
 {
   "name": "scratch-paint",
   "version": "2.1.61",
-  "description": "Graphical User Interface for the Scratch 3.0 paint editor, which is used to make and edit sprites for use in projects.",
+  "description": "Wiktor Studio paint editor for creating and editing Scratch-compatible sprites and costumes",
   "main": "./dist/scratch-paint.js",
   "browser": "./src/index.js",
   "scripts": {
@@ -17,10 +17,10 @@
   },
   "author": "Massachusetts Institute of Technology",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/LLK/scratch-paint#readme",
+  "homepage": "https://github.com/itswiktoragain/scratch-paint#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LLK/scratch-paint.git"
+    "url": "https://github.com/itswiktoragain/scratch-paint.git"
   },
   "dependencies": {
     "@turbowarp/nanolog": "^0.2.0",
